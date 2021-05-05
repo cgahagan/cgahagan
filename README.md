@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cgahagan, currently a PhD student at Florida State University.
 - 👀 I’m interested in the socio-political determinants of shadow economic activity, as well as International Relations and Comparative Politics.
-- :books: I’m currently learning R, and statistical analysis such as OLS regression, Maximum Likelihood, as well as other statistical methodology
-- 💞️ I’m looking to collaborate on academic papers and projects, or general political analysis.
+- :books: I’m looking to collaborate on academic papers and projects, or general political analysis.
 - 📫 How to reach me :arrow_right: cgahagan@fsu.edu
 
 <!---
