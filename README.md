@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cgahagan, currently a PhD student at Florida State University.
-- 📚 I’m interested in the socio-political determinants of shadow economic activity, as well as International Relations and Comparative Politics.
+- 👋 Hi, I’m @cgahagan, currently a PhD candidate at Florida State University.
+- 📚 I’m interested in the political determinants of informal economies
 - 📫 How to reach me :arrow_right: cgahagan@fsu.edu
 - 👀 Feel free to swing by my website www.chrisgahagan.com
 
